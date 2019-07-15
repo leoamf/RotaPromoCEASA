@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RotaPromo</string>
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Fechar</string>
+    <string name="nav_header_title">Leonardo Freitas</string>
+    <string name="nav_header_subtitle">Silver</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Historicos</string>
+    <string name="menu_slideshow">Avaliações</string>
+
+    <string name="google_maps_key">AIzaSyBVboPMDVcICLTsp8_GxdE_nd-fDmKeGvI</string>
+
+
+    <string name="directionsApiKey">AIzaSyBVboPMDVcICLTsp8_GxdE_nd-fDmKeGvI</string>
+</resources>
